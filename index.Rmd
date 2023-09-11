@@ -1,0 +1,45 @@
+---
+title: "Zeyu Li"
+image: "Zeyu.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/Tina-Zeyu/Zeyu-Li.github.io"
+  - label: Email
+    url: "lizeyu_tina@163.com"
+  - label: JHU Email
+    url: "zli322@jh.edu"
+output:
+  postcards::jolla
+---
+
+My legal name is Zeyu Li, you can also call me **Tina**. I'm a master's student at Bloomberg School of Public Health, Johns Hopkins University. I'm from China. My research interests focus on **maternal and child health**. I am still exploring my interests and open to all opportunities, so if you are conducting related research and looking for a teammate, please contact me.
+
+[**RESEARCH INTERESTS & SKILLS**]{.underline}
+
+**Areas of interest**: Maternal and child health, early life origins of diseases, environmental and nutritional factors in early life, genetic and epigenetic epidemiological studies, and design and analysis of cohort studies.
+
+**Skills**: Proficient in R, Stata, and SPSS. Familiar with frequently used statistical models such as Bayesian kernel machine regression (BKMR), Causal mediation analysis, multiple logistic regression, generalized linear models (GLMs), and generalized additive models (GAMs).
+
+[**EDUCATION**]{.underline}
+
+**Bloomberg School of Public Health**
+
+**Johns Hopkins University, MD, USA**
+
+*Aug 2023 -- Present*
+
+MSPH in Population, Family and Reproductive Health
+
+**School of Public Health**
+
+**Fudan University, Shanghai, China**
+
+*Sep 2018 -- Jun 2023*
+
+Bachelor of Medicine in Preventive Medicine (MD)
+
+[**PUBLICATIONS**]{.underline}
+
+Zhang J., **Li Z.**, Dai Y., et al. Urinary para-nitrophenol levels of pregnant women and cognitive and motor function of their children aged 2 years: Evidence from the SMBCS (China). *Ecotoxicology and Environmental Safety*. 2022; 244:114051. <https://doi.org/10.1016/j.ecoenv.2022.114051>.
+
+**Li Z.,** Jia Y., Parshley I., et al. Current prevalence, changes, and determinants of breastfeeding practice in China: data from cross-sectional national household health services surveys in 2013 and 2018. *International Breastfeeding Journal*. 2023;18(1):40. <https://doi.org/10.1186/s13006-023-00572-2>.

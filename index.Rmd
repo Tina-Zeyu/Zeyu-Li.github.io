@@ -5,9 +5,9 @@ links:
   - label: GitHub
     url: "https://github.com/Tina-Zeyu/Zeyu-Li.github.io"
   - label: Email
-    url: "lizeyu_tina@163.com"
+    url: "mailto: lizeyu_tina@163.com"
   - label: JHU Email
-    url: "zli322@jh.edu"
+    url: "mailto: zli322@jh.edu"
 output:
   postcards::jolla
 ---
